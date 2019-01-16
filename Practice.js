@@ -11,3 +11,5 @@ let greeter = getGreeter();
 greeter();
 
 // this a test line because Jon made me write one but he's the best
+
+console.log('help me');
